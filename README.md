@@ -25,6 +25,7 @@ yarn install
 ```
 3.1 - Установить 10-ую версию node.js(https://nodejs.org/en/blog/release/v10.18.0/)
 3.2 - В etc в конце файла hosts дописать строку - 127.0.0.1 front.ech-msp.ru, пример возможного расположения файла "Windows\System32\drivers\etc"
+3.3 - Зайти в настройки хрома - chrome://flags/ и параметр "SameSite by default cookies" установить в значение "Disabled". После чего перезапустить браузер.
 ```
 
 ### 4. Run the App
